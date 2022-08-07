@@ -1,0 +1,23 @@
+/*body {
+  background: #eee;
+  
+}
+
+.ratings i {
+  color: green;
+}
+
+.install span {
+  font-size: 12px;
+}
+
+.col-md-4 {
+  margin-top: 27px;
+}*/
+   
+#htag{
+  color: #4588d4;
+  font-size: 25px;
+  font-weight: bolder;
+  -webkit-text-stroke: 0.5px rgb(50, 50, 50);
+}

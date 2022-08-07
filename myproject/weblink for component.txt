@@ -1,0 +1,24 @@
+Header
+https://getbootstrap.com/docs/5.0/components/navs-tabs/
+current header
+https://getbootstrap.com/docs/5.1/components/navbar/
+
+footer
+https://mdbootstrap.com/docs/b5/react/navigation/footer/
+current
+https://mdbootstrap.com/snippets/standard/mdbootstrap/2885131?view=side
+
+
+login
+https://mdbootstrap.com/docs/standard/extended/login/#!
+
+
+contact
+https://mdbootstrap.com/docs/b4/jquery/forms/contact/
+validation in site
+
+padding karanam scroll varan chance und box2 padding
+
+
+admin sidebar
+https://www.codeply.com/p/WGCqYEiPBg

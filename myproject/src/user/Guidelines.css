@@ -1,0 +1,28 @@
+
+.listguide{
+  background-color: linear yellowgreen;
+}
+
+
+
+.list-type3{
+  
+  list-style: none;
+  list-style-image: url('C:\spectrum\Backend\Project\myproject\public\bullet1.png');
+  
+  }
+  .list-type3 li{
+  font-size:25px;
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+  color: white;
+  
+
+  line-height: 2em;
+  margin: .5em;
+  background-image: linear-gradient(to right, #f9dd94, #ce9e24);
+  border-radius: 10px;
+ 
+  
+  }
+  

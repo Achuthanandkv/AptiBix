@@ -1,0 +1,24 @@
+
+.container1{
+    background-color: #555;
+    color: #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 700px;
+}
+
+#options1{
+    text-align:start;
+    padding: 20px;
+    
+}
+
+#qs1{
+    background-color: #555;
+    resize: none;
+    border: none;
+    color: #ddd;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
